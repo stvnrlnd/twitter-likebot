@@ -1,0 +1,22 @@
+{
+  "name": "twitter-likebot",
+  "version": "1.0.0",
+  "description": "A Twitter bot that likes tweets containing one or more given hashtags.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stvnrlnd/twitter-likebot.git"
+  },
+  "author": "Steven Roland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stvnrlnd/twitter-likebot/issues"
+  },
+  "homepage": "https://github.com/stvnrlnd/twitter-likebot#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
